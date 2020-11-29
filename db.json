@@ -87,28 +87,6 @@
          "title":"Le P\u00e8re Goriot",
          "id":1835,
          "isRead":false
-      },
-      {
-         "author":"Samuel Beckett",
-         "country":"Republic of Ireland",
-         "imageLink":"images/molloy-malone-dies-the-unnamable.jpg",
-         "language":"French, English",
-         "link":"https://en.wikipedia.org/wiki/Molloy_(novel)\n",
-         "pages":256,
-         "title":"Molloy, Malone Dies, The Unnamable, the trilogy",
-         "id":1952,
-         "isRead":false
-      },
-      {
-         "author":"Giovanni Boccaccio",
-         "country":"Italy",
-         "imageLink":"images/the-decameron.jpg",
-         "language":"Italian",
-         "link":"https://en.wikipedia.org/wiki/The_Decameron\n",
-         "pages":1024,
-         "title":"The Decameron",
-         "id":1351,
-         "isRead":false
       }
    ]
 }
