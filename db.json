@@ -164,28 +164,6 @@
          "title":"Journey to the End of the Night",
          "id":1932,
          "isRead":false
-      },
-      {
-         "author":"Miguel de Cervantes",
-         "country":"Spain",
-         "imageLink":"images/don-quijote-de-la-mancha.jpg",
-         "language":"Spanish",
-         "link":"https://en.wikipedia.org/wiki/Don_Quixote\n",
-         "pages":1056,
-         "title":"Don Quijote De La Mancha",
-         "id":1610,
-         "isRead":false
-      },
-      {
-         "author":"Geoffrey Chaucer",
-         "country":"England",
-         "imageLink":"images/the-canterbury-tales.jpg",
-         "language":"English",
-         "link":"https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
-         "pages":544,
-         "title":"The Canterbury Tales",
-         "id":1450,
-         "isRead":false
       }
    ]
 }
