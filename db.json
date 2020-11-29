@@ -43,6 +43,50 @@
          "title":"The Book Of Job",
          "id":-600,
          "isRead":false
+      },
+      {
+         "author":"Unknown",
+         "country":"India/Iran/Iraq/Egypt/Tajikistan",
+         "imageLink":"images/one-thousand-and-one-nights.jpg",
+         "language":"Arabic",
+         "link":"https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+         "pages":288,
+         "title":"One Thousand and One Nights",
+         "id":1200,
+         "isRead":false
+      },
+      {
+         "author":"Unknown",
+         "country":"Iceland",
+         "imageLink":"images/njals-saga.jpg",
+         "language":"Old Norse",
+         "link":"https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+         "pages":384,
+         "title":"Nj\u00e1l's Saga",
+         "id":1350,
+         "isRead":false
+      },
+      {
+         "author":"Jane Austen",
+         "country":"United Kingdom",
+         "imageLink":"images/pride-and-prejudice.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+         "pages":226,
+         "title":"Pride and Prejudice",
+         "id":1813,
+         "isRead":false
+      },
+      {
+         "author":"Honor\u00e9 de Balzac",
+         "country":"France",
+         "imageLink":"images/le-pere-goriot.jpg",
+         "language":"French",
+         "link":"https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+         "pages":443,
+         "title":"Le P\u00e8re Goriot",
+         "id":1835,
+         "isRead":false
       }
    ]
 }
