@@ -12,15 +12,15 @@
          "isRead":false
       },
       {
-   "author":"Dante Alighieri",
-   "country":"Italy",
-   "imageLink":"images/the-divine-comedy.jpg",
-   "language":"Italian",
-   "link":"https://en.wikipedia.org/wiki/Divine_Comedy\n",
-   "pages":928,
-   "title":"The Divine Comedy",
-   "id":1315,
-   "isRead":false
-},
+         "author":"Dante Alighieri",
+         "country":"Italy",
+         "imageLink":"images/the-divine-comedy.jpg",
+         "language":"Italian",
+         "link":"https://en.wikipedia.org/wiki/Divine_Comedy\n",
+         "pages":928,
+         "title":"The Divine Comedy",
+         "id":1315,
+         "isRead":false
+      }
    ]
 }
